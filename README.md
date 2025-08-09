@@ -1,17 +1,16 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Stunning Webpage 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: OPZY-BROTHERS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Vishnu Prasad - College of Engineering Poonjar
+- Member 2: Sooraj K Sumesh  - College of Engineering Poonjar
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -47,8 +46,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img src="asset/Screenshot 2025-08-09 120332.png" alt="Screenshot" width="400"/>
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
